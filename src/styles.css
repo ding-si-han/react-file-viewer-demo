@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 10px solid green;
+  width: 50%;
+  height: 50%;
+}
+
+.file-viewer-style {
+  border: 10px solid green;
+  width: 50%;
+  height: 50%;
+}
